@@ -1,0 +1,27 @@
+{
+    "istatistikler": {
+        "yillik_tasarruf_tl": "4.850.000",
+        "karbon_engelleme_ton": "124"
+    },
+    "kritik_uyarilar": [
+        {
+            "mahalle": "UCEVLER",
+            "mesaj": "Rota Geometrisi Verimsiz & Dar Sokak",
+            "oncelik": "Kritik"
+        },
+        {
+            "mahalle": "KONAK",
+            "mesaj": "Gereksiz Sefer Sıklığı (Talep Düşük)",
+            "oncelik": "Yüksek"
+        },
+        {
+            "mahalle": "IHSANIYE",
+            "mesaj": "Yanlış Araç Tipi (Büyük Kamyon)",
+            "oncelik": "Orta"
+        }
+    ],
+    "gelecek_tahmini": {
+        "oran": "%5.4",
+        "yon": "Artış"
+    }
+}

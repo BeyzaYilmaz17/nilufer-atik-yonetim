@@ -1,0 +1,31 @@
+name: nilufer_eco_route1
+description: Nilufer Belediyesi Atik Optimizasyon Projesi
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # İkonlar
+  cupertino_icons: ^1.0.2
+
+  # Harita ve İnternet Paketleri (Sadece burası yeterli)
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Dosya Yolu Tanımlama
+  assets:
+    - assets/nilufer_data.json
