@@ -18,13 +18,11 @@ Bu uygulama, kullanıcıların atıklarını türlerine göre ayrıştırmasına
 | Giriş Ekranı | Ana Sayfa | Harita Görünümü |
 | :---: | :---: | :---: |
 | ![Giriş](<img width="450" height="797" alt="11" src="https://github.com/user-attachments/assets/d9041b79-5f84-48dc-894e-8bcce799c4a7" />
-) | ![Ana Sayfa]<img width="452" height="802" alt="22" src="https://github.com/user-attachments/assets/dfd7b08e-df6d-48c9-9c76-d584c048cf4a" />
-() | ![Harita](<img width="448" height="800" alt="333" src="https://github.com/user-attachments/assets/03736e74-5e0c-4f7b-98ef-9e4793f318b3" />
+| ![Ana Sayfa]<img width="452" height="802" alt="22" src="https://github.com/user-attachments/assets/dfd7b08e-df6d-48c9-9c76-d584c048cf4a" />
+ | ![Harita](<img width="448" height="800" alt="333" src="https://github.com/user-attachments/assets/03736e74-5e0c-4f7b-98ef-9e4793f318b3" />
 <img width="447" height="797" alt="4444" src="https://github.com/user-attachments/assets/9acc2be7-2bf0-44cb-bb0e-1afdae57b740" />
 
-) |
 
-*(Not: Yukarıdaki resim yollarını kendi yüklediğin resim isimlerine göre düzenlemelisin)*
 
 ## 🛠️ Kullanılan Teknolojiler
 
