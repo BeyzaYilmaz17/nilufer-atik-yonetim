@@ -26,8 +26,8 @@ Bu uygulama, kullanıcıların atıklarını türlerine göre ayrıştırmasına
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Flutter & Dart:** UI ve logic geliştirme.
-* **[Varsa Backend]:** [Örn: Firebase, Node.js vb.]
-* **[Varsa Harita]:** [Örn: Google Maps API, Mapbox]
+* **[Backend]:** [Örn: Firebase, Node.js vb.]
+* **[Harita]:** [Örn: Google Maps API, Mapbox]
 
 ## 🚀 Kurulum ve Çalıştırma
 
